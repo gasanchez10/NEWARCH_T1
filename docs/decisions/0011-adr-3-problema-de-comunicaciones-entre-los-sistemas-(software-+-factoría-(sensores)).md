@@ -1,0 +1,20 @@
+# Adr-3: Problema de Comunicaciones entre los sistemas (Software + Factoría (Sensores))
+
+* Status: proposed
+* Date: 2023-06-23
+
+Technical Story: Para revisar la analítica de datois arrojados por los sensores, se debe capturar y centralizar la información para hacerla disponible a los distintos sistemas.
+
+## Context and Problem Statement
+
+Se pretende diseñar el software de una factoría inteligente compuesta por tres líneas de
+producción y más de 10 sensores IoT que proporcionan datos sobre el estado de los dispositivos
+físicos de una factoría inteligente 4.0.
+
+## Considered Options
+
+* Adr-3:
+
+## Decision Outcome
+
+Chosen option: "", because comes out best.
