@@ -25,15 +25,15 @@ físicos de una factoría inteligente 4.0.
 
 ## Decision Outcome
 
-Chosen option: "Patron de microservicios", because permite exponer servicios de manera desacoplada
+Chosen option: "Patron strategy", because Permite garantizar el accuracy del modelo
 
 ### Positive Consequences
 
-* Baja latencia en el servicio
+* Condiabilidad en los resultados
 
 ### Negative Consequences
 
-* Exige conocer el mejor algoritmo
+* Baja latencia en el servicio
 
 ## Pros and Cons of the Options
 

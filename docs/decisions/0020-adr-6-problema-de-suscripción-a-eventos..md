@@ -3,6 +3,10 @@
 * Status: proposed
 * Date: 2023-06-24
 
+## Decision Drivers
+
+* RF8:
+
 ## Considered Options
 
 * PUBLISH-SUBSCRIBE

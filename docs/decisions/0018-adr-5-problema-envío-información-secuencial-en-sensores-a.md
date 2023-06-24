@@ -3,6 +3,15 @@
 * Status: proposed
 * Date: 2023-06-24
 
+## Decision Drivers
+
+* RF5:  SENSORES IOT
+
+## Considered Options
+
+* Estilo pipe and filter
+* Chain of responsability (Escogida)
+
 ## Decision Outcome
 
 Chosen option: "", because comes out best.

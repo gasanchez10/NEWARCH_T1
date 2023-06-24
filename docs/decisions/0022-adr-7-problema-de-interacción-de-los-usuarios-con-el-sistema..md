@@ -5,8 +5,7 @@
 
 ## Decision Drivers
 
-* Patron Facade
-* Decorator
+* RF5: SENSORES IOT
 
 ## Decision Outcome
 
