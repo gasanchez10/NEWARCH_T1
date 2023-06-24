@@ -24,7 +24,16 @@ físicos de una factoría inteligente 4.0.
 
 ## Decision Outcome
 
-Chosen option: "Estilo event driven", because comes out best.
+Chosen option: "Estilo event driven", because Se basa en la detección, consumo y reaccieon a eventos
+
+### Positive Consequences
+
+* Consumo de eventos
+
+### Negative Consequences
+
+* No garantiza la entrega de los eventos
+* Cantidad de eventos a incluir en un evento
 
 ## Pros and Cons of the Options
 
@@ -32,8 +41,7 @@ Chosen option: "Estilo event driven", because comes out best.
 
 Permite la notificación a la industria de eventos con base en los datos registrados por los sensores.
 
-* Good, because LOS EMISORES NO CONOCEN A LOS
-CONSUMIDORES DE LOS EVE NTOS
+* Good, because LOS EMISORES NO CONOCEN A LOS CONSUMIDORES DE LOS EVENTOS
 * Bad, because Pobre comprensibilidad: Puede ser difícil prever qué pasará en respuesta a una acción.
 * Bad, because No hay garantía del lado del publicador, que el suscriptor responderá al evento.
 
@@ -44,3 +52,7 @@ DICHO PROCESO EN UN ÚNICO PUNTO.
 
 * Good, because Permite flexibilidad a la hora de hacer data fusion de otro tipo de sensores
 * Bad, because Al ser un mecanismo centralizado, esto impide la descentralización o la fragmentación de las tomas de decisiones cuando se requiere que estas sean en función a solo una parte del objeto.
+
+## Links
+
+* Designing Software Architectures: A Practical Approach (SEI Series in Software Engineering), 2016.z
