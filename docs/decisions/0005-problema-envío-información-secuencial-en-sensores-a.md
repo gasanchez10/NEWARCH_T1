@@ -9,7 +9,8 @@
 
 ## Considered Options
 
-* 
+* Estilo pipe and filter
+* Chain of responsability (Escogida)
 
 ## Decision Outcome
 
